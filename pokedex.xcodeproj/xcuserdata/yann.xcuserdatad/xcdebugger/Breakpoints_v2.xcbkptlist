@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3F3410B9-8339-4485-A1D9-88B205BF8B12"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "292A13A0-AE7D-466D-A6F2-F8960DC2AF75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pokedex/ViewModel/PokemonStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getPokemonList(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "292A13A0-AE7D-466D-A6F2-F8960DC2AF75 - 70b1893f9ad9b7c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pokedex.Pokemon.getPokemonList(completion: (Swift.Optional&lt;Swift.Array&lt;pokedex.SchemaResult&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "pokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yann/Dropbox%20(DeveloperAcademy-BR)/Documentos/Projects/Swift/pokedex/pokedex/ViewModel/PokemonStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  uuid = "292A13A0-AE7D-466D-A6F2-F8960DC2AF75 - 5cf56d207dc46d04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (pokedex.SchemaPokemonList) -&gt; () in pokedex.Pokemon.getPokemonList(completion: (Swift.Optional&lt;Swift.Array&lt;pokedex.SchemaResult&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "pokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yann/Dropbox%20(DeveloperAcademy-BR)/Documentos/Projects/Swift/pokedex/pokedex/ViewModel/PokemonStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "175">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
